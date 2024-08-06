@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;400;500;600;700&display=swap');
 
 *{
     margin: 0;
@@ -288,18 +288,17 @@ div.theme {
         justify-content: center;
     }
 
-
 .title {
     display: flex;
     justify-content: center;
     align-items: center;
     color: #0097b2;
     padding: 10px;
-    font-size: 40px;
-    text-decoration:none;
+    font-size: 30px;
+    text-decoration: none;
 }
 
     .title img {
-        width: 70px;
-        height: 70px;
+        width: 80px;
+        height: 80px;
     }
